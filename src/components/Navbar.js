@@ -18,7 +18,7 @@ const Navbar = () => {
           sx={{ fontSize: {lg: '18px', xs: '10px'}}}
         >
           <Link href='/'>
-            Charecters
+            Characters
           </Link>
           <Link href='/location'>
             Location
